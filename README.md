@@ -112,9 +112,9 @@ O frontend será acessível em `http://localhost` (o Laravel serve os assets do 
 
 ## Funcionalidades
 
-- **Autenticação:** Acesse `http://localhost` e faça login. Use `admin@example.com` com a senha `password` para a conta de administrador, ou crie um novo usuário.
+- **Autenticação:** Acesse `http://localhost` e faça login. Use `admin@example.com` com a senha `password` para a conta de administrador, ou crie um novo usuário clicando em REGISTRAR na tela de Login.
 - **Criação de Pedidos:** No Dashboard, clique em "+ Adicionar Pedido".
-- **Visualização de Pedidos:** Todos os pedidos são listados na tabela do Dashboard.
+- **Visualização de Pedidos:** Todos os pedidos são listados na tabela do Dashboard. Clique em VER DETALHES para visualizar as informações do pedido.
 - **Atualização de Status (Admin):** Para usuários administradores, botões "Aprovar" e "Reprovar" aparecerão para pedidos com status "Pendente".
 - **Notificações por E-mail:** Verifique o MailHog em `http://localhost:8025` para ver os e-mails de notificação de status.
 
