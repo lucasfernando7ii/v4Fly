@@ -127,9 +127,7 @@ Para executar os testes unitários e de funcionalidade do Laravel (PHPUnit):
 ```bash
 ./vendor/bin/sail artisan test
 ```
-
-**(Nota: Os testes unitários não foram implementados neste projeto como parte do desenvolvimento inicial, mas esta é a instrução para executá-los caso sejam adicionados.)**
-
+(Nota: Já existem testes implementados na pasta tests/, incluindo cenários de registro, login e criação de ordem. Esse comando executará todos eles automaticamente.)
 
 ## Considerações Finais
 
