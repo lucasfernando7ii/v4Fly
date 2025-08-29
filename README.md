@@ -55,7 +55,7 @@ Certifique-se de ter o Docker e o Docker Compose instalados em sua máquina.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
+    git clone https://github.com/lucasfernando7ii/v4Fly
     cd desafio-viagens
     ```
 
